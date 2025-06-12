@@ -33,7 +33,7 @@ This lab demonstrates foundational Linux commands on both Ubuntu and Kali Linux.
 
 <b>List Files</b><br />
 <code>ls</code><br />
-<img src="IMAGE_LINK_HERE" width="80%" height="80%" alt="ls command"/>
+<img src="https://github.com/Jorgemat10/linux-lab/blob/main/Linux_project/ls.jpg" width="80%" height="80%" alt="ls command"/>
 <br /><br />
 
 <b>Create a Directory</b><br />
